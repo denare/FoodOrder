@@ -1,11 +1,3 @@
-<img src="https://raw.githubusercontent.com/denare/Munche/refs/heads/master/assets/Cover_Image.png">
-
-### Show some ❤️ and star the repo to show support for the project
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/denare/Munche/main/assets/do_it.gif">
-</p>
-
 <h1 align="center"> Munche Android App </h1>
 
 <p align="center">
@@ -106,6 +98,9 @@ public class sendUserDetailToServer extends AsyncTask<ArrayList<String>, Void, S
 # 👓 Also Checkout
 
 <a href="https://github.com/denare">My other repositories</a>
+
+
+### Show some ❤️ and star the repo to show support for the project
 
 # 📜 License 
 ```
