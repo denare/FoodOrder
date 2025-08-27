@@ -1,17 +1,17 @@
-<img src="https://raw.githubusercontent.com/AdityaV025/Munche/refs/heads/master/assets/Cover_Image.png">
+<img src="https://raw.githubusercontent.com/denare/Munche/refs/heads/master/assets/Cover_Image.png">
 
 ### Show some ❤️ and star the repo to show support for the project
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/AdityaV025/Munche/master/assets/do_it.gif">
+<img src="https://raw.githubusercontent.com/denare/Munche/main/assets/do_it.gif">
 </p>
 
 <h1 align="center"> Munche Android App </h1>
 
 <p align="center">
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-green"></a>
-  <a href="https://github.com/AdityaV025/Munche/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
-  <a href="https://github.com/AdityaV025/Munche/pulls"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square"></a>
+  <a href="https://github.com/denare/FoodOrder/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
+  <a href="https://github.com/denare/FoodOrder/pulls"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square"></a>
 </p>
 
 Munche is an open-source 🍔 food ordering Android application developed in **Java** and **Kotlin**. Munche is mainly developed So I can improve my Android development skills by building a real-world application and experimenting with different Android components.
@@ -101,24 +101,17 @@ public class sendUserDetailToServer extends AsyncTask<ArrayList<String>, Void, S
 
 # 👨 Made By
 
-`Aditya Verma`
-
-**Connect with me on**
-</br>
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AdityaV025)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-verma-66b7a913b/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aditya.verma7708@gmail.com)
+`Denis D`
 
 # 👓 Also Checkout
 
-<a href="https://github.com/AdityaV025/MuncheRestaurantPartner">Munche Restaurant Partner App</a>
+<a href="https://github.com/denare">My other repositories</a>
 
 # 📜 License 
 ```
 MIT License
 
-Copyright (c) 2021 Aditya Verma
+Copyright (c) 2025
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
